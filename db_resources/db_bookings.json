@@ -1,0 +1,2502 @@
+[
+ {
+   "Booking_ID": 1,
+   "Flight_ID": 156,
+   "Customer_ID": 26,
+   "Seat_Class": "Business",
+   "Seat_Number": "27F",
+   "Booking_Date": "2024-08-03 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1235.22
+ },
+ {
+   "Booking_ID": 2,
+   "Flight_ID": 137,
+   "Customer_ID": 106,
+   "Seat_Class": "Economy",
+   "Seat_Number": "28C",
+   "Booking_Date": "2024-05-31 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1664.29
+ },
+ {
+   "Booking_ID": 3,
+   "Flight_ID": 239,
+   "Customer_ID": 83,
+   "Seat_Class": "Business",
+   "Seat_Number": "5C",
+   "Booking_Date": "2024-09-22 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 466.14
+ },
+ {
+   "Booking_ID": 4,
+   "Flight_ID": 250,
+   "Customer_ID": 158,
+   "Seat_Class": "Economy",
+   "Seat_Number": "11C",
+   "Booking_Date": "2024-02-16 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1638.95
+ },
+ {
+   "Booking_ID": 5,
+   "Flight_ID": 178,
+   "Customer_ID": 97,
+   "Seat_Class": "Business",
+   "Seat_Number": "6C",
+   "Booking_Date": "2024-03-14 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 213.2
+ },
+ {
+   "Booking_ID": 6,
+   "Flight_ID": 206,
+   "Customer_ID": 239,
+   "Seat_Class": "Economy",
+   "Seat_Number": "16A",
+   "Booking_Date": "2024-07-24 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 187.57
+ },
+ {
+   "Booking_ID": 7,
+   "Flight_ID": 96,
+   "Customer_ID": 196,
+   "Seat_Class": "Business",
+   "Seat_Number": "15D",
+   "Booking_Date": "2024-11-29 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1751.89
+ },
+ {
+   "Booking_ID": 8,
+   "Flight_ID": 176,
+   "Customer_ID": 39,
+   "Seat_Class": "First Class",
+   "Seat_Number": "19F",
+   "Booking_Date": "2024-11-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1815.2
+ },
+ {
+   "Booking_ID": 9,
+   "Flight_ID": 190,
+   "Customer_ID": 146,
+   "Seat_Class": "First Class",
+   "Seat_Number": "6C",
+   "Booking_Date": "2024-11-16 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1534.27
+ },
+ {
+   "Booking_ID": 10,
+   "Flight_ID": 41,
+   "Customer_ID": 48,
+   "Seat_Class": "Business",
+   "Seat_Number": "20C",
+   "Booking_Date": "2024-09-17 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1859.41
+ },
+ {
+   "Booking_ID": 11,
+   "Flight_ID": 184,
+   "Customer_ID": 190,
+   "Seat_Class": "Business",
+   "Seat_Number": "22F",
+   "Booking_Date": "2024-09-25 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1014.06
+ },
+ {
+   "Booking_ID": 12,
+   "Flight_ID": 1,
+   "Customer_ID": 212,
+   "Seat_Class": "Economy",
+   "Seat_Number": "4F",
+   "Booking_Date": "2024-09-03 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 917.33
+ },
+ {
+   "Booking_ID": 13,
+   "Flight_ID": 99,
+   "Customer_ID": 76,
+   "Seat_Class": "Business",
+   "Seat_Number": "29C",
+   "Booking_Date": "2024-04-12 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 103.76
+ },
+ {
+   "Booking_ID": 14,
+   "Flight_ID": 18,
+   "Customer_ID": 178,
+   "Seat_Class": "First Class",
+   "Seat_Number": "17C",
+   "Booking_Date": "2024-10-19 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1883.72
+ },
+ {
+   "Booking_ID": 15,
+   "Flight_ID": 182,
+   "Customer_ID": 170,
+   "Seat_Class": "Economy",
+   "Seat_Number": "1E",
+   "Booking_Date": "2024-08-21 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 710.87
+ },
+ {
+   "Booking_ID": 16,
+   "Flight_ID": 108,
+   "Customer_ID": 138,
+   "Seat_Class": "First Class",
+   "Seat_Number": "8C",
+   "Booking_Date": "2024-05-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1731.11
+ },
+ {
+   "Booking_ID": 17,
+   "Flight_ID": 13,
+   "Customer_ID": 19,
+   "Seat_Class": "Business",
+   "Seat_Number": "18E",
+   "Booking_Date": "2024-10-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 357.97
+ },
+ {
+   "Booking_ID": 18,
+   "Flight_ID": 128,
+   "Customer_ID": 121,
+   "Seat_Class": "First Class",
+   "Seat_Number": "14C",
+   "Booking_Date": "2024-06-16 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1194.78
+ },
+ {
+   "Booking_ID": 19,
+   "Flight_ID": 222,
+   "Customer_ID": 136,
+   "Seat_Class": "Business",
+   "Seat_Number": "16D",
+   "Booking_Date": "2024-08-17 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 472.06
+ },
+ {
+   "Booking_ID": 20,
+   "Flight_ID": 36,
+   "Customer_ID": 43,
+   "Seat_Class": "Business",
+   "Seat_Number": "20F",
+   "Booking_Date": "2024-08-06 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 128.67
+ },
+ {
+   "Booking_ID": 21,
+   "Flight_ID": 50,
+   "Customer_ID": 115,
+   "Seat_Class": "Business",
+   "Seat_Number": "16F",
+   "Booking_Date": "2024-04-15 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 387.09
+ },
+ {
+   "Booking_ID": 22,
+   "Flight_ID": 195,
+   "Customer_ID": 110,
+   "Seat_Class": "Economy",
+   "Seat_Number": "17E",
+   "Booking_Date": "2024-04-30 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1109.23
+ },
+ {
+   "Booking_ID": 23,
+   "Flight_ID": 44,
+   "Customer_ID": 171,
+   "Seat_Class": "First Class",
+   "Seat_Number": "1C",
+   "Booking_Date": "2024-08-28 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 910.76
+ },
+ {
+   "Booking_ID": 24,
+   "Flight_ID": 137,
+   "Customer_ID": 72,
+   "Seat_Class": "First Class",
+   "Seat_Number": "22B",
+   "Booking_Date": "2024-03-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 925.74
+ },
+ {
+   "Booking_ID": 25,
+   "Flight_ID": 130,
+   "Customer_ID": 46,
+   "Seat_Class": "First Class",
+   "Seat_Number": "3B",
+   "Booking_Date": "2024-12-29 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 153.45
+ },
+ {
+   "Booking_ID": 26,
+   "Flight_ID": 154,
+   "Customer_ID": 241,
+   "Seat_Class": "First Class",
+   "Seat_Number": "20A",
+   "Booking_Date": "2025-01-01 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1595.4
+ },
+ {
+   "Booking_ID": 27,
+   "Flight_ID": 85,
+   "Customer_ID": 212,
+   "Seat_Class": "First Class",
+   "Seat_Number": "10E",
+   "Booking_Date": "2024-10-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1940.72
+ },
+ {
+   "Booking_ID": 28,
+   "Flight_ID": 189,
+   "Customer_ID": 31,
+   "Seat_Class": "Business",
+   "Seat_Number": "21A",
+   "Booking_Date": "2024-07-17 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 350.43
+ },
+ {
+   "Booking_ID": 29,
+   "Flight_ID": 187,
+   "Customer_ID": 98,
+   "Seat_Class": "Economy",
+   "Seat_Number": "13E",
+   "Booking_Date": "2024-05-02 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 449.97
+ },
+ {
+   "Booking_ID": 30,
+   "Flight_ID": 238,
+   "Customer_ID": 227,
+   "Seat_Class": "First Class",
+   "Seat_Number": "27F",
+   "Booking_Date": "2024-01-15 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1449.84
+ },
+ {
+   "Booking_ID": 31,
+   "Flight_ID": 77,
+   "Customer_ID": 49,
+   "Seat_Class": "Business",
+   "Seat_Number": "18D",
+   "Booking_Date": "2024-05-28 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 649.6
+ },
+ {
+   "Booking_ID": 32,
+   "Flight_ID": 234,
+   "Customer_ID": 85,
+   "Seat_Class": "First Class",
+   "Seat_Number": "11E",
+   "Booking_Date": "2024-05-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1792.09
+ },
+ {
+   "Booking_ID": 33,
+   "Flight_ID": 196,
+   "Customer_ID": 12,
+   "Seat_Class": "First Class",
+   "Seat_Number": "30F",
+   "Booking_Date": "2024-11-17 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 314.72
+ },
+ {
+   "Booking_ID": 34,
+   "Flight_ID": 13,
+   "Customer_ID": 211,
+   "Seat_Class": "First Class",
+   "Seat_Number": "8E",
+   "Booking_Date": "2024-04-10 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 597.19
+ },
+ {
+   "Booking_ID": 35,
+   "Flight_ID": 28,
+   "Customer_ID": 23,
+   "Seat_Class": "First Class",
+   "Seat_Number": "18B",
+   "Booking_Date": "2024-11-15 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 800.95
+ },
+ {
+   "Booking_ID": 36,
+   "Flight_ID": 196,
+   "Customer_ID": 60,
+   "Seat_Class": "First Class",
+   "Seat_Number": "17B",
+   "Booking_Date": "2024-04-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 525.83
+ },
+ {
+   "Booking_ID": 37,
+   "Flight_ID": 57,
+   "Customer_ID": 180,
+   "Seat_Class": "Economy",
+   "Seat_Number": "8A",
+   "Booking_Date": "2024-06-13 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1108.82
+ },
+ {
+   "Booking_ID": 38,
+   "Flight_ID": 196,
+   "Customer_ID": 154,
+   "Seat_Class": "Business",
+   "Seat_Number": "22B",
+   "Booking_Date": "2024-10-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1212.51
+ },
+ {
+   "Booking_ID": 39,
+   "Flight_ID": 83,
+   "Customer_ID": 45,
+   "Seat_Class": "First Class",
+   "Seat_Number": "19F",
+   "Booking_Date": "2024-05-18 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1288.68
+ },
+ {
+   "Booking_ID": 40,
+   "Flight_ID": 103,
+   "Customer_ID": 142,
+   "Seat_Class": "First Class",
+   "Seat_Number": "26E",
+   "Booking_Date": "2024-12-20 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1285.05
+ },
+ {
+   "Booking_ID": 41,
+   "Flight_ID": 3,
+   "Customer_ID": 9,
+   "Seat_Class": "Business",
+   "Seat_Number": "15E",
+   "Booking_Date": "2024-08-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 973.87
+ },
+ {
+   "Booking_ID": 42,
+   "Flight_ID": 154,
+   "Customer_ID": 10,
+   "Seat_Class": "Business",
+   "Seat_Number": "28C",
+   "Booking_Date": "2024-04-25 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 489.83
+ },
+ {
+   "Booking_ID": 43,
+   "Flight_ID": 61,
+   "Customer_ID": 57,
+   "Seat_Class": "Economy",
+   "Seat_Number": "14E",
+   "Booking_Date": "2024-04-27 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 327.06
+ },
+ {
+   "Booking_ID": 44,
+   "Flight_ID": 201,
+   "Customer_ID": 204,
+   "Seat_Class": "First Class",
+   "Seat_Number": "21D",
+   "Booking_Date": "2024-09-20 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1413.93
+ },
+ {
+   "Booking_ID": 45,
+   "Flight_ID": 128,
+   "Customer_ID": 60,
+   "Seat_Class": "Economy",
+   "Seat_Number": "30E",
+   "Booking_Date": "2024-05-25 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1566.84
+ },
+ {
+   "Booking_ID": 46,
+   "Flight_ID": 3,
+   "Customer_ID": 117,
+   "Seat_Class": "Economy",
+   "Seat_Number": "7E",
+   "Booking_Date": "2024-04-17 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1583.15
+ },
+ {
+   "Booking_ID": 47,
+   "Flight_ID": 119,
+   "Customer_ID": 134,
+   "Seat_Class": "Business",
+   "Seat_Number": "29A",
+   "Booking_Date": "2024-12-06 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1234.18
+ },
+ {
+   "Booking_ID": 48,
+   "Flight_ID": 22,
+   "Customer_ID": 38,
+   "Seat_Class": "Economy",
+   "Seat_Number": "3D",
+   "Booking_Date": "2024-10-08 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1800.93
+ },
+ {
+   "Booking_ID": 49,
+   "Flight_ID": 208,
+   "Customer_ID": 167,
+   "Seat_Class": "Economy",
+   "Seat_Number": "20B",
+   "Booking_Date": "2024-07-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 778.79
+ },
+ {
+   "Booking_ID": 50,
+   "Flight_ID": 216,
+   "Customer_ID": 214,
+   "Seat_Class": "First Class",
+   "Seat_Number": "16B",
+   "Booking_Date": "2024-08-14 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 721.72
+ },
+ {
+   "Booking_ID": 51,
+   "Flight_ID": 69,
+   "Customer_ID": 44,
+   "Seat_Class": "Economy",
+   "Seat_Number": "3D",
+   "Booking_Date": "2024-07-17 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1261.43
+ },
+ {
+   "Booking_ID": 52,
+   "Flight_ID": 155,
+   "Customer_ID": 97,
+   "Seat_Class": "Economy",
+   "Seat_Number": "24F",
+   "Booking_Date": "2024-12-15 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 818.38
+ },
+ {
+   "Booking_ID": 53,
+   "Flight_ID": 170,
+   "Customer_ID": 45,
+   "Seat_Class": "Business",
+   "Seat_Number": "20A",
+   "Booking_Date": "2024-06-19 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 431.81
+ },
+ {
+   "Booking_ID": 54,
+   "Flight_ID": 91,
+   "Customer_ID": 160,
+   "Seat_Class": "Economy",
+   "Seat_Number": "4D",
+   "Booking_Date": "2024-01-28 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 346.91
+ },
+ {
+   "Booking_ID": 55,
+   "Flight_ID": 9,
+   "Customer_ID": 21,
+   "Seat_Class": "Business",
+   "Seat_Number": "6E",
+   "Booking_Date": "2024-09-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 867.46
+ },
+ {
+   "Booking_ID": 56,
+   "Flight_ID": 75,
+   "Customer_ID": 174,
+   "Seat_Class": "First Class",
+   "Seat_Number": "23D",
+   "Booking_Date": "2024-09-07 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1272.09
+ },
+ {
+   "Booking_ID": 57,
+   "Flight_ID": 236,
+   "Customer_ID": 12,
+   "Seat_Class": "First Class",
+   "Seat_Number": "5F",
+   "Booking_Date": "2024-03-03 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1700.4
+ },
+ {
+   "Booking_ID": 58,
+   "Flight_ID": 47,
+   "Customer_ID": 150,
+   "Seat_Class": "Economy",
+   "Seat_Number": "19F",
+   "Booking_Date": "2024-06-11 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1579.55
+ },
+ {
+   "Booking_ID": 59,
+   "Flight_ID": 229,
+   "Customer_ID": 94,
+   "Seat_Class": "Economy",
+   "Seat_Number": "15F",
+   "Booking_Date": "2024-01-31 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1433.95
+ },
+ {
+   "Booking_ID": 60,
+   "Flight_ID": 47,
+   "Customer_ID": 35,
+   "Seat_Class": "Business",
+   "Seat_Number": "4E",
+   "Booking_Date": "2024-03-01 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1937.56
+ },
+ {
+   "Booking_ID": 61,
+   "Flight_ID": 78,
+   "Customer_ID": 59,
+   "Seat_Class": "First Class",
+   "Seat_Number": "1B",
+   "Booking_Date": "2024-06-30 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 542.63
+ },
+ {
+   "Booking_ID": 62,
+   "Flight_ID": 82,
+   "Customer_ID": 14,
+   "Seat_Class": "First Class",
+   "Seat_Number": "7A",
+   "Booking_Date": "2024-06-22 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1045.76
+ },
+ {
+   "Booking_ID": 63,
+   "Flight_ID": 95,
+   "Customer_ID": 191,
+   "Seat_Class": "Business",
+   "Seat_Number": "27F",
+   "Booking_Date": "2024-03-18 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1978.66
+ },
+ {
+   "Booking_ID": 64,
+   "Flight_ID": 111,
+   "Customer_ID": 91,
+   "Seat_Class": "Business",
+   "Seat_Number": "1B",
+   "Booking_Date": "2024-01-10 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 326.29
+ },
+ {
+   "Booking_ID": 65,
+   "Flight_ID": 105,
+   "Customer_ID": 48,
+   "Seat_Class": "First Class",
+   "Seat_Number": "10E",
+   "Booking_Date": "2024-04-14 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1070.73
+ },
+ {
+   "Booking_ID": 66,
+   "Flight_ID": 246,
+   "Customer_ID": 173,
+   "Seat_Class": "Economy",
+   "Seat_Number": "20A",
+   "Booking_Date": "2024-10-22 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 563.77
+ },
+ {
+   "Booking_ID": 67,
+   "Flight_ID": 81,
+   "Customer_ID": 108,
+   "Seat_Class": "Business",
+   "Seat_Number": "10E",
+   "Booking_Date": "2024-08-22 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 527.37
+ },
+ {
+   "Booking_ID": 68,
+   "Flight_ID": 48,
+   "Customer_ID": 163,
+   "Seat_Class": "First Class",
+   "Seat_Number": "4C",
+   "Booking_Date": "2024-09-12 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 792.13
+ },
+ {
+   "Booking_ID": 69,
+   "Flight_ID": 212,
+   "Customer_ID": 227,
+   "Seat_Class": "Business",
+   "Seat_Number": "21C",
+   "Booking_Date": "2024-04-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1895.79
+ },
+ {
+   "Booking_ID": 70,
+   "Flight_ID": 89,
+   "Customer_ID": 180,
+   "Seat_Class": "Business",
+   "Seat_Number": "10F",
+   "Booking_Date": "2024-06-01 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1743.77
+ },
+ {
+   "Booking_ID": 71,
+   "Flight_ID": 12,
+   "Customer_ID": 44,
+   "Seat_Class": "Economy",
+   "Seat_Number": "29B",
+   "Booking_Date": "2024-03-30 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 908.29
+ },
+ {
+   "Booking_ID": 72,
+   "Flight_ID": 43,
+   "Customer_ID": 46,
+   "Seat_Class": "Economy",
+   "Seat_Number": "17D",
+   "Booking_Date": "2024-05-17 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 128.78
+ },
+ {
+   "Booking_ID": 73,
+   "Flight_ID": 174,
+   "Customer_ID": 241,
+   "Seat_Class": "Economy",
+   "Seat_Number": "13B",
+   "Booking_Date": "2024-07-16 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1494.29
+ },
+ {
+   "Booking_ID": 74,
+   "Flight_ID": 186,
+   "Customer_ID": 25,
+   "Seat_Class": "Economy",
+   "Seat_Number": "30C",
+   "Booking_Date": "2024-06-14 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 266.69
+ },
+ {
+   "Booking_ID": 75,
+   "Flight_ID": 32,
+   "Customer_ID": 209,
+   "Seat_Class": "First Class",
+   "Seat_Number": "2C",
+   "Booking_Date": "2024-07-07 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 583.24
+ },
+ {
+   "Booking_ID": 76,
+   "Flight_ID": 163,
+   "Customer_ID": 39,
+   "Seat_Class": "First Class",
+   "Seat_Number": "18E",
+   "Booking_Date": "2024-05-03 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1021.71
+ },
+ {
+   "Booking_ID": 77,
+   "Flight_ID": 9,
+   "Customer_ID": 69,
+   "Seat_Class": "Economy",
+   "Seat_Number": "16C",
+   "Booking_Date": "2024-11-27 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1493.45
+ },
+ {
+   "Booking_ID": 78,
+   "Flight_ID": 237,
+   "Customer_ID": 71,
+   "Seat_Class": "First Class",
+   "Seat_Number": "23E",
+   "Booking_Date": "2024-12-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1985.21
+ },
+ {
+   "Booking_ID": 79,
+   "Flight_ID": 227,
+   "Customer_ID": 231,
+   "Seat_Class": "Business",
+   "Seat_Number": "10C",
+   "Booking_Date": "2024-09-23 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1306.99
+ },
+ {
+   "Booking_ID": 80,
+   "Flight_ID": 65,
+   "Customer_ID": 221,
+   "Seat_Class": "Business",
+   "Seat_Number": "15D",
+   "Booking_Date": "2024-02-09 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 824.3
+ },
+ {
+   "Booking_ID": 81,
+   "Flight_ID": 53,
+   "Customer_ID": 93,
+   "Seat_Class": "First Class",
+   "Seat_Number": "21F",
+   "Booking_Date": "2024-10-06 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1283.91
+ },
+ {
+   "Booking_ID": 82,
+   "Flight_ID": 158,
+   "Customer_ID": 64,
+   "Seat_Class": "Business",
+   "Seat_Number": "16D",
+   "Booking_Date": "2024-03-13 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 963.53
+ },
+ {
+   "Booking_ID": 83,
+   "Flight_ID": 217,
+   "Customer_ID": 171,
+   "Seat_Class": "First Class",
+   "Seat_Number": "5E",
+   "Booking_Date": "2024-11-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1827.95
+ },
+ {
+   "Booking_ID": 84,
+   "Flight_ID": 33,
+   "Customer_ID": 142,
+   "Seat_Class": "Economy",
+   "Seat_Number": "29A",
+   "Booking_Date": "2024-01-30 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 653.08
+ },
+ {
+   "Booking_ID": 85,
+   "Flight_ID": 140,
+   "Customer_ID": 237,
+   "Seat_Class": "Economy",
+   "Seat_Number": "24D",
+   "Booking_Date": "2024-07-13 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 638.91
+ },
+ {
+   "Booking_ID": 86,
+   "Flight_ID": 130,
+   "Customer_ID": 142,
+   "Seat_Class": "Economy",
+   "Seat_Number": "12A",
+   "Booking_Date": "2024-03-25 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 234.72
+ },
+ {
+   "Booking_ID": 87,
+   "Flight_ID": 95,
+   "Customer_ID": 177,
+   "Seat_Class": "Business",
+   "Seat_Number": "16A",
+   "Booking_Date": "2024-01-02 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 129.4
+ },
+ {
+   "Booking_ID": 88,
+   "Flight_ID": 236,
+   "Customer_ID": 20,
+   "Seat_Class": "Business",
+   "Seat_Number": "6F",
+   "Booking_Date": "2024-06-22 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 489.15
+ },
+ {
+   "Booking_ID": 89,
+   "Flight_ID": 215,
+   "Customer_ID": 171,
+   "Seat_Class": "Business",
+   "Seat_Number": "13F",
+   "Booking_Date": "2024-04-24 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1737.47
+ },
+ {
+   "Booking_ID": 90,
+   "Flight_ID": 243,
+   "Customer_ID": 172,
+   "Seat_Class": "Business",
+   "Seat_Number": "30D",
+   "Booking_Date": "2024-08-13 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1968.58
+ },
+ {
+   "Booking_ID": 91,
+   "Flight_ID": 26,
+   "Customer_ID": 183,
+   "Seat_Class": "First Class",
+   "Seat_Number": "25A",
+   "Booking_Date": "2024-02-28 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 949.97
+ },
+ {
+   "Booking_ID": 92,
+   "Flight_ID": 145,
+   "Customer_ID": 78,
+   "Seat_Class": "Economy",
+   "Seat_Number": "10E",
+   "Booking_Date": "2024-07-23 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 179.72
+ },
+ {
+   "Booking_ID": 93,
+   "Flight_ID": 22,
+   "Customer_ID": 219,
+   "Seat_Class": "Business",
+   "Seat_Number": "14F",
+   "Booking_Date": "2024-11-26 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 780.38
+ },
+ {
+   "Booking_ID": 94,
+   "Flight_ID": 198,
+   "Customer_ID": 121,
+   "Seat_Class": "Economy",
+   "Seat_Number": "29A",
+   "Booking_Date": "2024-01-08 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 816.41
+ },
+ {
+   "Booking_ID": 95,
+   "Flight_ID": 61,
+   "Customer_ID": 244,
+   "Seat_Class": "Economy",
+   "Seat_Number": "24B",
+   "Booking_Date": "2024-02-08 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 350.25
+ },
+ {
+   "Booking_ID": 96,
+   "Flight_ID": 22,
+   "Customer_ID": 206,
+   "Seat_Class": "Economy",
+   "Seat_Number": "5A",
+   "Booking_Date": "2024-05-17 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1832.45
+ },
+ {
+   "Booking_ID": 97,
+   "Flight_ID": 4,
+   "Customer_ID": 98,
+   "Seat_Class": "Business",
+   "Seat_Number": "27C",
+   "Booking_Date": "2024-08-24 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1456.61
+ },
+ {
+   "Booking_ID": 98,
+   "Flight_ID": 199,
+   "Customer_ID": 175,
+   "Seat_Class": "First Class",
+   "Seat_Number": "12C",
+   "Booking_Date": "2024-09-10 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1448.64
+ },
+ {
+   "Booking_ID": 99,
+   "Flight_ID": 69,
+   "Customer_ID": 14,
+   "Seat_Class": "First Class",
+   "Seat_Number": "18D",
+   "Booking_Date": "2024-05-13 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1148.64
+ },
+ {
+   "Booking_ID": 100,
+   "Flight_ID": 81,
+   "Customer_ID": 130,
+   "Seat_Class": "Economy",
+   "Seat_Number": "29D",
+   "Booking_Date": "2024-03-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1218.1
+ },
+ {
+   "Booking_ID": 101,
+   "Flight_ID": 163,
+   "Customer_ID": 113,
+   "Seat_Class": "Economy",
+   "Seat_Number": "7D",
+   "Booking_Date": "2024-10-25 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1696.73
+ },
+ {
+   "Booking_ID": 102,
+   "Flight_ID": 120,
+   "Customer_ID": 215,
+   "Seat_Class": "Economy",
+   "Seat_Number": "30E",
+   "Booking_Date": "2024-01-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1456.1
+ },
+ {
+   "Booking_ID": 103,
+   "Flight_ID": 25,
+   "Customer_ID": 159,
+   "Seat_Class": "Economy",
+   "Seat_Number": "1D",
+   "Booking_Date": "2024-01-18 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 942.33
+ },
+ {
+   "Booking_ID": 104,
+   "Flight_ID": 20,
+   "Customer_ID": 171,
+   "Seat_Class": "First Class",
+   "Seat_Number": "1B",
+   "Booking_Date": "2024-01-28 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 328.58
+ },
+ {
+   "Booking_ID": 105,
+   "Flight_ID": 59,
+   "Customer_ID": 188,
+   "Seat_Class": "First Class",
+   "Seat_Number": "25A",
+   "Booking_Date": "2024-03-01 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 999.98
+ },
+ {
+   "Booking_ID": 106,
+   "Flight_ID": 98,
+   "Customer_ID": 107,
+   "Seat_Class": "Economy",
+   "Seat_Number": "8C",
+   "Booking_Date": "2024-07-03 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1349.78
+ },
+ {
+   "Booking_ID": 107,
+   "Flight_ID": 52,
+   "Customer_ID": 203,
+   "Seat_Class": "Economy",
+   "Seat_Number": "22C",
+   "Booking_Date": "2024-05-10 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1404.2
+ },
+ {
+   "Booking_ID": 108,
+   "Flight_ID": 131,
+   "Customer_ID": 202,
+   "Seat_Class": "Business",
+   "Seat_Number": "15A",
+   "Booking_Date": "2024-08-27 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 697.27
+ },
+ {
+   "Booking_ID": 109,
+   "Flight_ID": 21,
+   "Customer_ID": 235,
+   "Seat_Class": "Business",
+   "Seat_Number": "20F",
+   "Booking_Date": "2024-04-10 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1435.73
+ },
+ {
+   "Booking_ID": 110,
+   "Flight_ID": 44,
+   "Customer_ID": 134,
+   "Seat_Class": "Economy",
+   "Seat_Number": "24E",
+   "Booking_Date": "2024-07-26 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1911.75
+ },
+ {
+   "Booking_ID": 111,
+   "Flight_ID": 180,
+   "Customer_ID": 175,
+   "Seat_Class": "Business",
+   "Seat_Number": "23D",
+   "Booking_Date": "2024-12-13 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1448.83
+ },
+ {
+   "Booking_ID": 112,
+   "Flight_ID": 186,
+   "Customer_ID": 104,
+   "Seat_Class": "First Class",
+   "Seat_Number": "13B",
+   "Booking_Date": "2024-05-12 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 680.22
+ },
+ {
+   "Booking_ID": 113,
+   "Flight_ID": 219,
+   "Customer_ID": 246,
+   "Seat_Class": "Business",
+   "Seat_Number": "4C",
+   "Booking_Date": "2024-04-22 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 781.01
+ },
+ {
+   "Booking_ID": 114,
+   "Flight_ID": 77,
+   "Customer_ID": 85,
+   "Seat_Class": "First Class",
+   "Seat_Number": "3F",
+   "Booking_Date": "2024-06-29 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 850.75
+ },
+ {
+   "Booking_ID": 115,
+   "Flight_ID": 86,
+   "Customer_ID": 225,
+   "Seat_Class": "First Class",
+   "Seat_Number": "16A",
+   "Booking_Date": "2024-05-13 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 465.16
+ },
+ {
+   "Booking_ID": 116,
+   "Flight_ID": 179,
+   "Customer_ID": 234,
+   "Seat_Class": "Business",
+   "Seat_Number": "5F",
+   "Booking_Date": "2024-07-13 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 422.98
+ },
+ {
+   "Booking_ID": 117,
+   "Flight_ID": 34,
+   "Customer_ID": 74,
+   "Seat_Class": "Business",
+   "Seat_Number": "7E",
+   "Booking_Date": "2024-09-26 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1200.44
+ },
+ {
+   "Booking_ID": 118,
+   "Flight_ID": 24,
+   "Customer_ID": 7,
+   "Seat_Class": "First Class",
+   "Seat_Number": "6F",
+   "Booking_Date": "2024-10-04 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1401.28
+ },
+ {
+   "Booking_ID": 119,
+   "Flight_ID": 222,
+   "Customer_ID": 230,
+   "Seat_Class": "First Class",
+   "Seat_Number": "11F",
+   "Booking_Date": "2024-05-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1236.53
+ },
+ {
+   "Booking_ID": 120,
+   "Flight_ID": 137,
+   "Customer_ID": 19,
+   "Seat_Class": "Business",
+   "Seat_Number": "3A",
+   "Booking_Date": "2024-08-03 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1137.45
+ },
+ {
+   "Booking_ID": 121,
+   "Flight_ID": 55,
+   "Customer_ID": 57,
+   "Seat_Class": "Business",
+   "Seat_Number": "19D",
+   "Booking_Date": "2024-03-28 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1488.48
+ },
+ {
+   "Booking_ID": 122,
+   "Flight_ID": 169,
+   "Customer_ID": 108,
+   "Seat_Class": "Business",
+   "Seat_Number": "1D",
+   "Booking_Date": "2024-07-10 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1907.95
+ },
+ {
+   "Booking_ID": 123,
+   "Flight_ID": 72,
+   "Customer_ID": 228,
+   "Seat_Class": "Business",
+   "Seat_Number": "26F",
+   "Booking_Date": "2024-05-30 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 106.41
+ },
+ {
+   "Booking_ID": 124,
+   "Flight_ID": 146,
+   "Customer_ID": 116,
+   "Seat_Class": "First Class",
+   "Seat_Number": "5D",
+   "Booking_Date": "2024-02-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 424.07
+ },
+ {
+   "Booking_ID": 125,
+   "Flight_ID": 152,
+   "Customer_ID": 131,
+   "Seat_Class": "Economy",
+   "Seat_Number": "20C",
+   "Booking_Date": "2024-01-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1439.85
+ },
+ {
+   "Booking_ID": 126,
+   "Flight_ID": 237,
+   "Customer_ID": 185,
+   "Seat_Class": "Business",
+   "Seat_Number": "9F",
+   "Booking_Date": "2024-03-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 597.52
+ },
+ {
+   "Booking_ID": 127,
+   "Flight_ID": 88,
+   "Customer_ID": 65,
+   "Seat_Class": "Economy",
+   "Seat_Number": "3F",
+   "Booking_Date": "2024-08-27 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 114.4
+ },
+ {
+   "Booking_ID": 128,
+   "Flight_ID": 35,
+   "Customer_ID": 29,
+   "Seat_Class": "First Class",
+   "Seat_Number": "20E",
+   "Booking_Date": "2024-10-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1026.82
+ },
+ {
+   "Booking_ID": 129,
+   "Flight_ID": 135,
+   "Customer_ID": 39,
+   "Seat_Class": "Economy",
+   "Seat_Number": "22A",
+   "Booking_Date": "2024-05-30 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 218.62
+ },
+ {
+   "Booking_ID": 130,
+   "Flight_ID": 1,
+   "Customer_ID": 95,
+   "Seat_Class": "Economy",
+   "Seat_Number": "27E",
+   "Booking_Date": "2024-08-28 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 708.17
+ },
+ {
+   "Booking_ID": 131,
+   "Flight_ID": 220,
+   "Customer_ID": 208,
+   "Seat_Class": "Business",
+   "Seat_Number": "2F",
+   "Booking_Date": "2024-04-05 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1541.87
+ },
+ {
+   "Booking_ID": 132,
+   "Flight_ID": 65,
+   "Customer_ID": 129,
+   "Seat_Class": "Economy",
+   "Seat_Number": "5E",
+   "Booking_Date": "2024-05-16 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 182.64
+ },
+ {
+   "Booking_ID": 133,
+   "Flight_ID": 127,
+   "Customer_ID": 210,
+   "Seat_Class": "Economy",
+   "Seat_Number": "26C",
+   "Booking_Date": "2024-11-28 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 985.47
+ },
+ {
+   "Booking_ID": 134,
+   "Flight_ID": 203,
+   "Customer_ID": 192,
+   "Seat_Class": "Economy",
+   "Seat_Number": "18B",
+   "Booking_Date": "2024-02-17 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1740.65
+ },
+ {
+   "Booking_ID": 135,
+   "Flight_ID": 95,
+   "Customer_ID": 60,
+   "Seat_Class": "First Class",
+   "Seat_Number": "3D",
+   "Booking_Date": "2024-01-26 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 632.19
+ },
+ {
+   "Booking_ID": 136,
+   "Flight_ID": 121,
+   "Customer_ID": 165,
+   "Seat_Class": "First Class",
+   "Seat_Number": "9D",
+   "Booking_Date": "2024-11-06 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1542.52
+ },
+ {
+   "Booking_ID": 137,
+   "Flight_ID": 209,
+   "Customer_ID": 203,
+   "Seat_Class": "First Class",
+   "Seat_Number": "13A",
+   "Booking_Date": "2024-08-01 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1426.02
+ },
+ {
+   "Booking_ID": 138,
+   "Flight_ID": 74,
+   "Customer_ID": 17,
+   "Seat_Class": "Economy",
+   "Seat_Number": "19B",
+   "Booking_Date": "2024-06-07 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 737.52
+ },
+ {
+   "Booking_ID": 139,
+   "Flight_ID": 202,
+   "Customer_ID": 182,
+   "Seat_Class": "Economy",
+   "Seat_Number": "25A",
+   "Booking_Date": "2024-09-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1462.72
+ },
+ {
+   "Booking_ID": 140,
+   "Flight_ID": 59,
+   "Customer_ID": 206,
+   "Seat_Class": "First Class",
+   "Seat_Number": "6B",
+   "Booking_Date": "2024-04-16 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1872.23
+ },
+ {
+   "Booking_ID": 141,
+   "Flight_ID": 113,
+   "Customer_ID": 46,
+   "Seat_Class": "Business",
+   "Seat_Number": "19C",
+   "Booking_Date": "2024-12-21 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 507.77
+ },
+ {
+   "Booking_ID": 142,
+   "Flight_ID": 149,
+   "Customer_ID": 224,
+   "Seat_Class": "Business",
+   "Seat_Number": "7D",
+   "Booking_Date": "2024-09-25 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 594.47
+ },
+ {
+   "Booking_ID": 143,
+   "Flight_ID": 63,
+   "Customer_ID": 25,
+   "Seat_Class": "First Class",
+   "Seat_Number": "16C",
+   "Booking_Date": "2024-02-08 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 586.91
+ },
+ {
+   "Booking_ID": 144,
+   "Flight_ID": 142,
+   "Customer_ID": 175,
+   "Seat_Class": "Economy",
+   "Seat_Number": "3B",
+   "Booking_Date": "2024-07-21 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1110.95
+ },
+ {
+   "Booking_ID": 145,
+   "Flight_ID": 164,
+   "Customer_ID": 81,
+   "Seat_Class": "Economy",
+   "Seat_Number": "22C",
+   "Booking_Date": "2024-12-09 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 908.07
+ },
+ {
+   "Booking_ID": 146,
+   "Flight_ID": 247,
+   "Customer_ID": 223,
+   "Seat_Class": "Economy",
+   "Seat_Number": "22D",
+   "Booking_Date": "2024-08-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1871.74
+ },
+ {
+   "Booking_ID": 147,
+   "Flight_ID": 145,
+   "Customer_ID": 9,
+   "Seat_Class": "Business",
+   "Seat_Number": "18F",
+   "Booking_Date": "2024-05-09 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 237.19
+ },
+ {
+   "Booking_ID": 148,
+   "Flight_ID": 101,
+   "Customer_ID": 226,
+   "Seat_Class": "Economy",
+   "Seat_Number": "13B",
+   "Booking_Date": "2024-08-18 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1080.72
+ },
+ {
+   "Booking_ID": 149,
+   "Flight_ID": 249,
+   "Customer_ID": 26,
+   "Seat_Class": "Business",
+   "Seat_Number": "4C",
+   "Booking_Date": "2024-10-28 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 111.88
+ },
+ {
+   "Booking_ID": 150,
+   "Flight_ID": 15,
+   "Customer_ID": 18,
+   "Seat_Class": "Business",
+   "Seat_Number": "20A",
+   "Booking_Date": "2024-09-20 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 328.06
+ },
+ {
+   "Booking_ID": 151,
+   "Flight_ID": 78,
+   "Customer_ID": 121,
+   "Seat_Class": "Business",
+   "Seat_Number": "29D",
+   "Booking_Date": "2024-08-18 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1337.03
+ },
+ {
+   "Booking_ID": 152,
+   "Flight_ID": 105,
+   "Customer_ID": 131,
+   "Seat_Class": "First Class",
+   "Seat_Number": "10E",
+   "Booking_Date": "2024-03-17 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 592.17
+ },
+ {
+   "Booking_ID": 153,
+   "Flight_ID": 249,
+   "Customer_ID": 159,
+   "Seat_Class": "Economy",
+   "Seat_Number": "1E",
+   "Booking_Date": "2024-01-27 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1911.38
+ },
+ {
+   "Booking_ID": 154,
+   "Flight_ID": 198,
+   "Customer_ID": 103,
+   "Seat_Class": "Business",
+   "Seat_Number": "8F",
+   "Booking_Date": "2024-09-12 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1892.08
+ },
+ {
+   "Booking_ID": 155,
+   "Flight_ID": 138,
+   "Customer_ID": 130,
+   "Seat_Class": "First Class",
+   "Seat_Number": "5F",
+   "Booking_Date": "2024-10-07 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 164.62
+ },
+ {
+   "Booking_ID": 156,
+   "Flight_ID": 108,
+   "Customer_ID": 197,
+   "Seat_Class": "Economy",
+   "Seat_Number": "10F",
+   "Booking_Date": "2024-08-07 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1762.26
+ },
+ {
+   "Booking_ID": 157,
+   "Flight_ID": 15,
+   "Customer_ID": 183,
+   "Seat_Class": "Business",
+   "Seat_Number": "14E",
+   "Booking_Date": "2024-12-25 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 653.27
+ },
+ {
+   "Booking_ID": 158,
+   "Flight_ID": 196,
+   "Customer_ID": 155,
+   "Seat_Class": "First Class",
+   "Seat_Number": "8B",
+   "Booking_Date": "2024-06-21 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 961.82
+ },
+ {
+   "Booking_ID": 159,
+   "Flight_ID": 202,
+   "Customer_ID": 11,
+   "Seat_Class": "Economy",
+   "Seat_Number": "14E",
+   "Booking_Date": "2024-12-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 897.47
+ },
+ {
+   "Booking_ID": 160,
+   "Flight_ID": 142,
+   "Customer_ID": 221,
+   "Seat_Class": "Business",
+   "Seat_Number": "17B",
+   "Booking_Date": "2024-07-25 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1423.73
+ },
+ {
+   "Booking_ID": 161,
+   "Flight_ID": 136,
+   "Customer_ID": 11,
+   "Seat_Class": "Business",
+   "Seat_Number": "27B",
+   "Booking_Date": "2024-11-30 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1741.82
+ },
+ {
+   "Booking_ID": 162,
+   "Flight_ID": 250,
+   "Customer_ID": 41,
+   "Seat_Class": "Business",
+   "Seat_Number": "25F",
+   "Booking_Date": "2024-01-03 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 207.88
+ },
+ {
+   "Booking_ID": 163,
+   "Flight_ID": 207,
+   "Customer_ID": 26,
+   "Seat_Class": "Economy",
+   "Seat_Number": "14F",
+   "Booking_Date": "2024-09-21 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 550.33
+ },
+ {
+   "Booking_ID": 164,
+   "Flight_ID": 18,
+   "Customer_ID": 85,
+   "Seat_Class": "First Class",
+   "Seat_Number": "19B",
+   "Booking_Date": "2024-07-27 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 706.55
+ },
+ {
+   "Booking_ID": 165,
+   "Flight_ID": 163,
+   "Customer_ID": 203,
+   "Seat_Class": "First Class",
+   "Seat_Number": "30E",
+   "Booking_Date": "2024-07-10 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 668.97
+ },
+ {
+   "Booking_ID": 166,
+   "Flight_ID": 228,
+   "Customer_ID": 157,
+   "Seat_Class": "Business",
+   "Seat_Number": "25F",
+   "Booking_Date": "2024-11-04 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1606.56
+ },
+ {
+   "Booking_ID": 167,
+   "Flight_ID": 141,
+   "Customer_ID": 110,
+   "Seat_Class": "Economy",
+   "Seat_Number": "9D",
+   "Booking_Date": "2024-03-21 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 570.38
+ },
+ {
+   "Booking_ID": 168,
+   "Flight_ID": 157,
+   "Customer_ID": 125,
+   "Seat_Class": "First Class",
+   "Seat_Number": "18B",
+   "Booking_Date": "2024-09-08 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 647.66
+ },
+ {
+   "Booking_ID": 169,
+   "Flight_ID": 138,
+   "Customer_ID": 77,
+   "Seat_Class": "Economy",
+   "Seat_Number": "23A",
+   "Booking_Date": "2024-12-16 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1034.83
+ },
+ {
+   "Booking_ID": 170,
+   "Flight_ID": 165,
+   "Customer_ID": 205,
+   "Seat_Class": "Business",
+   "Seat_Number": "5C",
+   "Booking_Date": "2024-06-22 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 352.99
+ },
+ {
+   "Booking_ID": 171,
+   "Flight_ID": 198,
+   "Customer_ID": 128,
+   "Seat_Class": "Economy",
+   "Seat_Number": "11C",
+   "Booking_Date": "2024-11-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1030.85
+ },
+ {
+   "Booking_ID": 172,
+   "Flight_ID": 51,
+   "Customer_ID": 160,
+   "Seat_Class": "Business",
+   "Seat_Number": "27E",
+   "Booking_Date": "2024-06-15 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 907.51
+ },
+ {
+   "Booking_ID": 173,
+   "Flight_ID": 25,
+   "Customer_ID": 47,
+   "Seat_Class": "First Class",
+   "Seat_Number": "10F",
+   "Booking_Date": "2024-02-22 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 677.3
+ },
+ {
+   "Booking_ID": 174,
+   "Flight_ID": 200,
+   "Customer_ID": 149,
+   "Seat_Class": "Business",
+   "Seat_Number": "4B",
+   "Booking_Date": "2024-07-29 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 835.06
+ },
+ {
+   "Booking_ID": 175,
+   "Flight_ID": 199,
+   "Customer_ID": 36,
+   "Seat_Class": "Business",
+   "Seat_Number": "10E",
+   "Booking_Date": "2024-09-05 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1714.3
+ },
+ {
+   "Booking_ID": 176,
+   "Flight_ID": 195,
+   "Customer_ID": 12,
+   "Seat_Class": "First Class",
+   "Seat_Number": "7F",
+   "Booking_Date": "2024-02-16 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1763.33
+ },
+ {
+   "Booking_ID": 177,
+   "Flight_ID": 13,
+   "Customer_ID": 191,
+   "Seat_Class": "Economy",
+   "Seat_Number": "3E",
+   "Booking_Date": "2024-03-10 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1972.86
+ },
+ {
+   "Booking_ID": 178,
+   "Flight_ID": 54,
+   "Customer_ID": 127,
+   "Seat_Class": "First Class",
+   "Seat_Number": "1A",
+   "Booking_Date": "2024-10-11 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1614.06
+ },
+ {
+   "Booking_ID": 179,
+   "Flight_ID": 97,
+   "Customer_ID": 20,
+   "Seat_Class": "Business",
+   "Seat_Number": "4D",
+   "Booking_Date": "2024-04-18 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1714.32
+ },
+ {
+   "Booking_ID": 180,
+   "Flight_ID": 128,
+   "Customer_ID": 175,
+   "Seat_Class": "Economy",
+   "Seat_Number": "6F",
+   "Booking_Date": "2024-08-27 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 218.03
+ },
+ {
+   "Booking_ID": 181,
+   "Flight_ID": 243,
+   "Customer_ID": 117,
+   "Seat_Class": "Economy",
+   "Seat_Number": "6A",
+   "Booking_Date": "2024-11-05 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1515.12
+ },
+ {
+   "Booking_ID": 182,
+   "Flight_ID": 91,
+   "Customer_ID": 86,
+   "Seat_Class": "Economy",
+   "Seat_Number": "18D",
+   "Booking_Date": "2024-11-15 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 605.49
+ },
+ {
+   "Booking_ID": 183,
+   "Flight_ID": 131,
+   "Customer_ID": 143,
+   "Seat_Class": "Economy",
+   "Seat_Number": "19E",
+   "Booking_Date": "2024-08-13 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1266.2
+ },
+ {
+   "Booking_ID": 184,
+   "Flight_ID": 25,
+   "Customer_ID": 78,
+   "Seat_Class": "First Class",
+   "Seat_Number": "21C",
+   "Booking_Date": "2024-08-20 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 668.2
+ },
+ {
+   "Booking_ID": 185,
+   "Flight_ID": 68,
+   "Customer_ID": 85,
+   "Seat_Class": "Business",
+   "Seat_Number": "1A",
+   "Booking_Date": "2024-08-17 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 894.51
+ },
+ {
+   "Booking_ID": 186,
+   "Flight_ID": 58,
+   "Customer_ID": 76,
+   "Seat_Class": "First Class",
+   "Seat_Number": "10D",
+   "Booking_Date": "2024-07-01 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 866.61
+ },
+ {
+   "Booking_ID": 187,
+   "Flight_ID": 106,
+   "Customer_ID": 64,
+   "Seat_Class": "Economy",
+   "Seat_Number": "6F",
+   "Booking_Date": "2024-07-26 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 319.83
+ },
+ {
+   "Booking_ID": 188,
+   "Flight_ID": 62,
+   "Customer_ID": 28,
+   "Seat_Class": "Business",
+   "Seat_Number": "4A",
+   "Booking_Date": "2024-04-15 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 590.63
+ },
+ {
+   "Booking_ID": 189,
+   "Flight_ID": 14,
+   "Customer_ID": 74,
+   "Seat_Class": "First Class",
+   "Seat_Number": "5E",
+   "Booking_Date": "2024-10-02 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 717.9
+ },
+ {
+   "Booking_ID": 190,
+   "Flight_ID": 196,
+   "Customer_ID": 98,
+   "Seat_Class": "Business",
+   "Seat_Number": "7B",
+   "Booking_Date": "2024-11-10 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1277.46
+ },
+ {
+   "Booking_ID": 191,
+   "Flight_ID": 88,
+   "Customer_ID": 110,
+   "Seat_Class": "Economy",
+   "Seat_Number": "19D",
+   "Booking_Date": "2024-10-04 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1353.84
+ },
+ {
+   "Booking_ID": 192,
+   "Flight_ID": 29,
+   "Customer_ID": 79,
+   "Seat_Class": "Business",
+   "Seat_Number": "14D",
+   "Booking_Date": "2024-09-07 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1392.61
+ },
+ {
+   "Booking_ID": 193,
+   "Flight_ID": 245,
+   "Customer_ID": 192,
+   "Seat_Class": "Economy",
+   "Seat_Number": "22C",
+   "Booking_Date": "2024-06-23 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1554.46
+ },
+ {
+   "Booking_ID": 194,
+   "Flight_ID": 166,
+   "Customer_ID": 208,
+   "Seat_Class": "First Class",
+   "Seat_Number": "20E",
+   "Booking_Date": "2024-07-12 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 716.38
+ },
+ {
+   "Booking_ID": 195,
+   "Flight_ID": 52,
+   "Customer_ID": 5,
+   "Seat_Class": "Economy",
+   "Seat_Number": "23D",
+   "Booking_Date": "2024-02-17 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 733.61
+ },
+ {
+   "Booking_ID": 196,
+   "Flight_ID": 11,
+   "Customer_ID": 164,
+   "Seat_Class": "Business",
+   "Seat_Number": "2E",
+   "Booking_Date": "2024-06-13 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1691.39
+ },
+ {
+   "Booking_ID": 197,
+   "Flight_ID": 82,
+   "Customer_ID": 124,
+   "Seat_Class": "Economy",
+   "Seat_Number": "12A",
+   "Booking_Date": "2024-07-09 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 401.83
+ },
+ {
+   "Booking_ID": 198,
+   "Flight_ID": 185,
+   "Customer_ID": 58,
+   "Seat_Class": "First Class",
+   "Seat_Number": "23B",
+   "Booking_Date": "2024-05-23 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1091.28
+ },
+ {
+   "Booking_ID": 199,
+   "Flight_ID": 88,
+   "Customer_ID": 222,
+   "Seat_Class": "First Class",
+   "Seat_Number": "5A",
+   "Booking_Date": "2024-09-05 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1230.11
+ },
+ {
+   "Booking_ID": 200,
+   "Flight_ID": 213,
+   "Customer_ID": 140,
+   "Seat_Class": "Business",
+   "Seat_Number": "1E",
+   "Booking_Date": "2024-06-16 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 357.46
+ },
+ {
+   "Booking_ID": 201,
+   "Flight_ID": 82,
+   "Customer_ID": 206,
+   "Seat_Class": "Business",
+   "Seat_Number": "14C",
+   "Booking_Date": "2024-07-01 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1164.38
+ },
+ {
+   "Booking_ID": 202,
+   "Flight_ID": 114,
+   "Customer_ID": 160,
+   "Seat_Class": "Business",
+   "Seat_Number": "27B",
+   "Booking_Date": "2024-08-20 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 707.94
+ },
+ {
+   "Booking_ID": 203,
+   "Flight_ID": 233,
+   "Customer_ID": 154,
+   "Seat_Class": "Economy",
+   "Seat_Number": "17E",
+   "Booking_Date": "2024-03-02 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 332.51
+ },
+ {
+   "Booking_ID": 204,
+   "Flight_ID": 226,
+   "Customer_ID": 175,
+   "Seat_Class": "Business",
+   "Seat_Number": "29E",
+   "Booking_Date": "2024-05-02 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 176.42
+ },
+ {
+   "Booking_ID": 205,
+   "Flight_ID": 144,
+   "Customer_ID": 230,
+   "Seat_Class": "First Class",
+   "Seat_Number": "16E",
+   "Booking_Date": "2024-06-18 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 398.58
+ },
+ {
+   "Booking_ID": 206,
+   "Flight_ID": 191,
+   "Customer_ID": 152,
+   "Seat_Class": "Business",
+   "Seat_Number": "17B",
+   "Booking_Date": "2024-02-02 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1146.87
+ },
+ {
+   "Booking_ID": 207,
+   "Flight_ID": 81,
+   "Customer_ID": 111,
+   "Seat_Class": "First Class",
+   "Seat_Number": "30C",
+   "Booking_Date": "2024-02-02 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 552.05
+ },
+ {
+   "Booking_ID": 208,
+   "Flight_ID": 135,
+   "Customer_ID": 76,
+   "Seat_Class": "First Class",
+   "Seat_Number": "18A",
+   "Booking_Date": "2024-07-26 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1320.33
+ },
+ {
+   "Booking_ID": 209,
+   "Flight_ID": 97,
+   "Customer_ID": 152,
+   "Seat_Class": "Economy",
+   "Seat_Number": "23D",
+   "Booking_Date": "2024-01-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 941.25
+ },
+ {
+   "Booking_ID": 210,
+   "Flight_ID": 164,
+   "Customer_ID": 246,
+   "Seat_Class": "Economy",
+   "Seat_Number": "14B",
+   "Booking_Date": "2024-01-03 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1954.9
+ },
+ {
+   "Booking_ID": 211,
+   "Flight_ID": 80,
+   "Customer_ID": 206,
+   "Seat_Class": "First Class",
+   "Seat_Number": "15E",
+   "Booking_Date": "2024-12-16 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1639.87
+ },
+ {
+   "Booking_ID": 212,
+   "Flight_ID": 128,
+   "Customer_ID": 141,
+   "Seat_Class": "First Class",
+   "Seat_Number": "13B",
+   "Booking_Date": "2024-03-03 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 938.27
+ },
+ {
+   "Booking_ID": 213,
+   "Flight_ID": 104,
+   "Customer_ID": 234,
+   "Seat_Class": "Business",
+   "Seat_Number": "24D",
+   "Booking_Date": "2024-11-03 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1128.18
+ },
+ {
+   "Booking_ID": 214,
+   "Flight_ID": 171,
+   "Customer_ID": 48,
+   "Seat_Class": "Economy",
+   "Seat_Number": "9E",
+   "Booking_Date": "2024-07-15 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1926.76
+ },
+ {
+   "Booking_ID": 215,
+   "Flight_ID": 202,
+   "Customer_ID": 94,
+   "Seat_Class": "Economy",
+   "Seat_Number": "26E",
+   "Booking_Date": "2024-07-06 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1491.8
+ },
+ {
+   "Booking_ID": 216,
+   "Flight_ID": 59,
+   "Customer_ID": 197,
+   "Seat_Class": "Business",
+   "Seat_Number": "23C",
+   "Booking_Date": "2024-04-29 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 859.99
+ },
+ {
+   "Booking_ID": 217,
+   "Flight_ID": 236,
+   "Customer_ID": 14,
+   "Seat_Class": "Business",
+   "Seat_Number": "9D",
+   "Booking_Date": "2024-06-27 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 763.1
+ },
+ {
+   "Booking_ID": 218,
+   "Flight_ID": 223,
+   "Customer_ID": 137,
+   "Seat_Class": "Business",
+   "Seat_Number": "24F",
+   "Booking_Date": "2024-12-13 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 690.94
+ },
+ {
+   "Booking_ID": 219,
+   "Flight_ID": 115,
+   "Customer_ID": 53,
+   "Seat_Class": "First Class",
+   "Seat_Number": "30F",
+   "Booking_Date": "2024-02-29 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1894.98
+ },
+ {
+   "Booking_ID": 220,
+   "Flight_ID": 180,
+   "Customer_ID": 104,
+   "Seat_Class": "Business",
+   "Seat_Number": "27F",
+   "Booking_Date": "2024-07-31 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1266.81
+ },
+ {
+   "Booking_ID": 221,
+   "Flight_ID": 208,
+   "Customer_ID": 168,
+   "Seat_Class": "Business",
+   "Seat_Number": "23D",
+   "Booking_Date": "2024-10-24 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1705.71
+ },
+ {
+   "Booking_ID": 222,
+   "Flight_ID": 63,
+   "Customer_ID": 220,
+   "Seat_Class": "Business",
+   "Seat_Number": "9A",
+   "Booking_Date": "2024-01-09 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 401.43
+ },
+ {
+   "Booking_ID": 223,
+   "Flight_ID": 141,
+   "Customer_ID": 194,
+   "Seat_Class": "Economy",
+   "Seat_Number": "27A",
+   "Booking_Date": "2024-07-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 437.94
+ },
+ {
+   "Booking_ID": 224,
+   "Flight_ID": 28,
+   "Customer_ID": 185,
+   "Seat_Class": "Economy",
+   "Seat_Number": "1B",
+   "Booking_Date": "2024-11-15 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1630.25
+ },
+ {
+   "Booking_ID": 225,
+   "Flight_ID": 143,
+   "Customer_ID": 76,
+   "Seat_Class": "Business",
+   "Seat_Number": "12F",
+   "Booking_Date": "2024-12-01 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 234.72
+ },
+ {
+   "Booking_ID": 226,
+   "Flight_ID": 215,
+   "Customer_ID": 60,
+   "Seat_Class": "Economy",
+   "Seat_Number": "6D",
+   "Booking_Date": "2024-09-15 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1189.3
+ },
+ {
+   "Booking_ID": 227,
+   "Flight_ID": 4,
+   "Customer_ID": 66,
+   "Seat_Class": "First Class",
+   "Seat_Number": "16F",
+   "Booking_Date": "2024-08-15 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 981.06
+ },
+ {
+   "Booking_ID": 228,
+   "Flight_ID": 4,
+   "Customer_ID": 222,
+   "Seat_Class": "First Class",
+   "Seat_Number": "23C",
+   "Booking_Date": "2024-11-29 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1927.46
+ },
+ {
+   "Booking_ID": 229,
+   "Flight_ID": 89,
+   "Customer_ID": 86,
+   "Seat_Class": "Economy",
+   "Seat_Number": "22A",
+   "Booking_Date": "2024-01-01 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 494.55
+ },
+ {
+   "Booking_ID": 230,
+   "Flight_ID": 214,
+   "Customer_ID": 148,
+   "Seat_Class": "Business",
+   "Seat_Number": "24E",
+   "Booking_Date": "2024-04-05 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 947.18
+ },
+ {
+   "Booking_ID": 231,
+   "Flight_ID": 222,
+   "Customer_ID": 127,
+   "Seat_Class": "Economy",
+   "Seat_Number": "12C",
+   "Booking_Date": "2024-11-17 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1928.34
+ },
+ {
+   "Booking_ID": 232,
+   "Flight_ID": 66,
+   "Customer_ID": 123,
+   "Seat_Class": "Business",
+   "Seat_Number": "21F",
+   "Booking_Date": "2024-06-21 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 244.95
+ },
+ {
+   "Booking_ID": 233,
+   "Flight_ID": 28,
+   "Customer_ID": 111,
+   "Seat_Class": "First Class",
+   "Seat_Number": "19B",
+   "Booking_Date": "2024-12-23 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1431.71
+ },
+ {
+   "Booking_ID": 234,
+   "Flight_ID": 119,
+   "Customer_ID": 225,
+   "Seat_Class": "Economy",
+   "Seat_Number": "24D",
+   "Booking_Date": "2024-09-09 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 527.22
+ },
+ {
+   "Booking_ID": 235,
+   "Flight_ID": 189,
+   "Customer_ID": 59,
+   "Seat_Class": "Economy",
+   "Seat_Number": "7F",
+   "Booking_Date": "2024-08-30 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 320.29
+ },
+ {
+   "Booking_ID": 236,
+   "Flight_ID": 13,
+   "Customer_ID": 60,
+   "Seat_Class": "Economy",
+   "Seat_Number": "1E",
+   "Booking_Date": "2024-02-12 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 405.49
+ },
+ {
+   "Booking_ID": 237,
+   "Flight_ID": 9,
+   "Customer_ID": 70,
+   "Seat_Class": "Business",
+   "Seat_Number": "30D",
+   "Booking_Date": "2024-06-24 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1132.01
+ },
+ {
+   "Booking_ID": 238,
+   "Flight_ID": 59,
+   "Customer_ID": 84,
+   "Seat_Class": "Business",
+   "Seat_Number": "28B",
+   "Booking_Date": "2024-10-19 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1033.75
+ },
+ {
+   "Booking_ID": 239,
+   "Flight_ID": 74,
+   "Customer_ID": 196,
+   "Seat_Class": "Business",
+   "Seat_Number": "26F",
+   "Booking_Date": "2024-04-10 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1190.76
+ },
+ {
+   "Booking_ID": 240,
+   "Flight_ID": 147,
+   "Customer_ID": 183,
+   "Seat_Class": "First Class",
+   "Seat_Number": "21C",
+   "Booking_Date": "2024-09-11 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 767.83
+ },
+ {
+   "Booking_ID": 241,
+   "Flight_ID": 134,
+   "Customer_ID": 127,
+   "Seat_Class": "First Class",
+   "Seat_Number": "11E",
+   "Booking_Date": "2024-08-14 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1958.55
+ },
+ {
+   "Booking_ID": 242,
+   "Flight_ID": 190,
+   "Customer_ID": 185,
+   "Seat_Class": "Economy",
+   "Seat_Number": "29A",
+   "Booking_Date": "2024-11-05 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 944.05
+ },
+ {
+   "Booking_ID": 243,
+   "Flight_ID": 117,
+   "Customer_ID": 82,
+   "Seat_Class": "Business",
+   "Seat_Number": "12D",
+   "Booking_Date": "2024-08-31 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 1683.12
+ },
+ {
+   "Booking_ID": 244,
+   "Flight_ID": 152,
+   "Customer_ID": 213,
+   "Seat_Class": "First Class",
+   "Seat_Number": "22C",
+   "Booking_Date": "2024-03-01 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1791.11
+ },
+ {
+   "Booking_ID": 245,
+   "Flight_ID": 155,
+   "Customer_ID": 118,
+   "Seat_Class": "Economy",
+   "Seat_Number": "29A",
+   "Booking_Date": "2024-01-22 00:00:00",
+   "Payment_Status": "Pending",
+   "Total_Price": 104.45
+ },
+ {
+   "Booking_ID": 246,
+   "Flight_ID": 52,
+   "Customer_ID": 239,
+   "Seat_Class": "Economy",
+   "Seat_Number": "23B",
+   "Booking_Date": "2024-11-08 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1784.37
+ },
+ {
+   "Booking_ID": 247,
+   "Flight_ID": 50,
+   "Customer_ID": 10,
+   "Seat_Class": "Economy",
+   "Seat_Number": "23C",
+   "Booking_Date": "2024-10-10 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 1887.02
+ },
+ {
+   "Booking_ID": 248,
+   "Flight_ID": 83,
+   "Customer_ID": 222,
+   "Seat_Class": "Business",
+   "Seat_Number": "5C",
+   "Booking_Date": "2024-07-14 00:00:00",
+   "Payment_Status": "Paid",
+   "Total_Price": 536.61
+ },
+ {
+   "Booking_ID": 249,
+   "Flight_ID": 233,
+   "Customer_ID": 112,
+   "Seat_Class": "First Class",
+   "Seat_Number": "19E",
+   "Booking_Date": "2024-12-09 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 730.06
+ },
+ {
+   "Booking_ID": 250,
+   "Flight_ID": 54,
+   "Customer_ID": 236,
+   "Seat_Class": "Economy",
+   "Seat_Number": "4B",
+   "Booking_Date": "2024-07-26 00:00:00",
+   "Payment_Status": "Cancelled",
+   "Total_Price": 1029.99
+ }
+]

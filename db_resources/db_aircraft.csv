@@ -1,0 +1,101 @@
+﻿Aircraft_ID,Aircraft_Type,Capacity,Manufacturer,Maintenance_Status,Last_Maintenance_Date
+1,Boeing 787,291,Airbus,Operational,2024-05-29 00:00:00
+2,Airbus A320,239,Boeing,Operational,2024-03-30 00:00:00
+3,Boeing 737,369,Airbus,Under Maintenance,2024-08-19 00:00:00
+4,Boeing 737,249,Airbus,Under Maintenance,2024-04-04 00:00:00
+5,Airbus A320,253,Boeing,Operational,2024-05-15 00:00:00
+6,Boeing 737,350,Boeing,Operational,2024-06-15 00:00:00
+7,Airbus A380,318,Airbus,Under Maintenance,2024-03-13 00:00:00
+8,Boeing 787,246,Boeing,Operational,2024-02-07 00:00:00
+9,Boeing 737,190,Airbus,Under Maintenance,2024-08-18 00:00:00
+10,Airbus A320,185,Airbus,Operational,2024-04-27 00:00:00
+11,Boeing 737,103,Airbus,Under Maintenance,2024-02-02 00:00:00
+12,Boeing 737,236,Airbus,Under Maintenance,2024-03-28 00:00:00
+13,Boeing 787,109,Boeing,Under Maintenance,2024-04-24 00:00:00
+14,Airbus A320,354,Boeing,Under Maintenance,2024-01-17 00:00:00
+15,Airbus A320,155,Boeing,Under Maintenance,2024-09-16 00:00:00
+16,Airbus A320,284,Airbus,Under Maintenance,2024-03-13 00:00:00
+17,Airbus A380,131,Boeing,Under Maintenance,2024-02-10 00:00:00
+18,Boeing 787,234,Boeing,Operational,2024-09-07 00:00:00
+19,Airbus A320,326,Boeing,Operational,2024-08-25 00:00:00
+20,Airbus A380,106,Boeing,Under Maintenance,2024-05-17 00:00:00
+21,Boeing 737,178,Boeing,Under Maintenance,2024-10-07 00:00:00
+22,Airbus A380,359,Airbus,Operational,2024-04-21 00:00:00
+23,Airbus A320,365,Airbus,Under Maintenance,2024-03-27 00:00:00
+24,Airbus A320,183,Boeing,Under Maintenance,2024-05-22 00:00:00
+25,Boeing 737,193,Boeing,Under Maintenance,2024-06-21 00:00:00
+26,Boeing 787,148,Airbus,Under Maintenance,2024-09-26 00:00:00
+27,Boeing 787,117,Boeing,Operational,2024-12-08 00:00:00
+28,Airbus A380,162,Boeing,Operational,2024-10-04 00:00:00
+29,Airbus A380,133,Airbus,Operational,2024-09-30 00:00:00
+30,Airbus A320,355,Boeing,Under Maintenance,2024-05-04 00:00:00
+31,Boeing 787,107,Boeing,Operational,2024-06-27 00:00:00
+32,Airbus A320,212,Boeing,Operational,2024-03-11 00:00:00
+33,Airbus A320,347,Boeing,Under Maintenance,2024-09-30 00:00:00
+34,Boeing 737,326,Airbus,Operational,2024-01-25 00:00:00
+35,Airbus A380,310,Boeing,Operational,2024-08-26 00:00:00
+36,Airbus A320,134,Airbus,Under Maintenance,2024-04-18 00:00:00
+37,Boeing 787,368,Airbus,Operational,2024-03-13 00:00:00
+38,Airbus A320,329,Airbus,Under Maintenance,2024-03-23 00:00:00
+39,Boeing 737,230,Airbus,Under Maintenance,2024-11-27 00:00:00
+40,Boeing 787,224,Boeing,Under Maintenance,2024-09-04 00:00:00
+41,Airbus A320,329,Airbus,Under Maintenance,2024-10-05 00:00:00
+42,Boeing 787,274,Boeing,Under Maintenance,2024-06-25 00:00:00
+43,Boeing 787,234,Boeing,Under Maintenance,2024-08-12 00:00:00
+44,Airbus A320,327,Boeing,Operational,2024-12-25 00:00:00
+45,Boeing 787,190,Boeing,Operational,2024-12-18 00:00:00
+46,Airbus A320,319,Airbus,Under Maintenance,2024-05-20 00:00:00
+47,Boeing 737,305,Boeing,Under Maintenance,2024-02-05 00:00:00
+48,Boeing 737,264,Boeing,Operational,2024-01-01 00:00:00
+49,Airbus A380,207,Airbus,Operational,2024-08-07 00:00:00
+50,Airbus A320,363,Airbus,Operational,2024-09-14 00:00:00
+51,Airbus A320,276,Boeing,Operational,2024-07-26 00:00:00
+52,Airbus A320,382,Airbus,Under Maintenance,2024-01-08 00:00:00
+53,Boeing 787,100,Airbus,Operational,2024-07-11 00:00:00
+54,Boeing 787,125,Boeing,Under Maintenance,2024-07-12 00:00:00
+55,Airbus A320,330,Boeing,Under Maintenance,2024-06-24 00:00:00
+56,Airbus A380,117,Airbus,Under Maintenance,2024-10-13 00:00:00
+57,Airbus A380,166,Boeing,Under Maintenance,2024-06-01 00:00:00
+58,Boeing 787,373,Airbus,Under Maintenance,2024-07-08 00:00:00
+59,Airbus A380,275,Boeing,Operational,2024-02-02 00:00:00
+60,Airbus A320,281,Boeing,Operational,2024-10-10 00:00:00
+61,Airbus A380,321,Boeing,Operational,2024-04-20 00:00:00
+62,Airbus A380,331,Airbus,Under Maintenance,2024-01-01 00:00:00
+63,Boeing 787,277,Boeing,Operational,2024-05-08 00:00:00
+64,Boeing 787,107,Airbus,Operational,2024-07-06 00:00:00
+65,Airbus A320,331,Airbus,Under Maintenance,2024-10-05 00:00:00
+66,Airbus A320,339,Boeing,Under Maintenance,2024-07-31 00:00:00
+67,Airbus A320,318,Boeing,Under Maintenance,2024-01-06 00:00:00
+68,Airbus A380,283,Boeing,Operational,2024-01-30 00:00:00
+69,Boeing 737,126,Boeing,Operational,2024-10-17 00:00:00
+70,Airbus A380,397,Boeing,Operational,2024-10-14 00:00:00
+71,Airbus A320,268,Airbus,Under Maintenance,2024-01-03 00:00:00
+72,Boeing 787,211,Airbus,Under Maintenance,2024-10-23 00:00:00
+73,Airbus A320,368,Boeing,Under Maintenance,2024-09-06 00:00:00
+74,Airbus A320,395,Boeing,Under Maintenance,2024-01-19 00:00:00
+75,Boeing 737,358,Airbus,Under Maintenance,2024-12-27 00:00:00
+76,Airbus A380,208,Boeing,Under Maintenance,2024-01-24 00:00:00
+77,Airbus A320,142,Boeing,Under Maintenance,2024-07-31 00:00:00
+78,Boeing 787,133,Airbus,Under Maintenance,2024-10-10 00:00:00
+79,Boeing 737,212,Boeing,Operational,2024-07-11 00:00:00
+80,Boeing 787,202,Boeing,Under Maintenance,2024-12-24 00:00:00
+81,Airbus A320,315,Airbus,Operational,2024-06-23 00:00:00
+82,Airbus A320,298,Boeing,Operational,2024-03-27 00:00:00
+83,Airbus A320,334,Airbus,Operational,2024-03-19 00:00:00
+84,Airbus A320,125,Airbus,Operational,2024-11-28 00:00:00
+85,Airbus A320,130,Airbus,Operational,2024-12-16 00:00:00
+86,Boeing 787,262,Airbus,Operational,2024-12-01 00:00:00
+87,Boeing 737,240,Boeing,Operational,2024-08-19 00:00:00
+88,Airbus A320,101,Boeing,Under Maintenance,2024-07-31 00:00:00
+89,Boeing 787,380,Airbus,Under Maintenance,2024-08-28 00:00:00
+90,Airbus A320,130,Boeing,Operational,2024-07-31 00:00:00
+91,Boeing 737,160,Airbus,Under Maintenance,2024-01-25 00:00:00
+92,Boeing 787,224,Airbus,Under Maintenance,2024-06-28 00:00:00
+93,Airbus A380,272,Boeing,Operational,2024-01-16 00:00:00
+94,Airbus A320,101,Boeing,Under Maintenance,2024-05-04 00:00:00
+95,Boeing 737,217,Airbus,Under Maintenance,2024-02-02 00:00:00
+96,Boeing 787,308,Airbus,Operational,2024-04-30 00:00:00
+97,Boeing 787,153,Airbus,Operational,2024-11-24 00:00:00
+98,Boeing 787,330,Boeing,Operational,2024-07-13 00:00:00
+99,Airbus A380,240,Boeing,Under Maintenance,2024-05-16 00:00:00
+100,Airbus A320,195,Airbus,Under Maintenance,2024-05-10 00:00:00

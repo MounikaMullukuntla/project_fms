@@ -1,0 +1,251 @@
+﻿Employee_ID,First_Name,Last_Name,Role,Department,Contact_Details,Shift_Start,Shift_End
+1,David,Lewis,Technician,Engineering,+11347332364,04:31,02:00
+2,Laura,Lewis,Technician,Customer Service,+15466719305,04:29,01:46
+3,Laura,Clark,Administrator,Customer Service,+17860125516,12:02,08:40
+4,Sarah,Anderson,Pilot,Engineering,+11470082594,10:29,08:14
+5,David,Clark,Technician,Customer Service,+11807382515,05:47,18:20
+6,Michael,Lewis,Technician,Operations,+15106336377,15:24,07:45
+7,Daniel,Clark,Pilot,HR,+18708446120,09:09,09:56
+8,Sarah,Walker,Pilot,Engineering,+15010026987,00:32,12:46
+9,Sarah,Lewis,Ground Staff,Customer Service,+12230928609,11:56,16:23
+10,Michael,Walker,Cabin Crew,Operations,+17017108524,05:16,22:04
+11,Daniel,Clark,Ground Staff,Customer Service,+15179457772,12:58,04:25
+12,Sarah,Walker,Pilot,Customer Service,+17468316670,02:44,22:35
+13,Daniel,Walker,Ground Staff,HR,+12092950894,16:39,04:54
+14,Daniel,Clark,Ground Staff,Operations,+19566928424,23:58,11:58
+15,Sarah,Rodriguez,Administrator,HR,+15765316963,05:55,10:53
+16,Sophia,Lewis,Pilot,Customer Service,+11932964090,08:29,09:45
+17,David,Walker,Ground Staff,Engineering,+19087287873,22:36,18:36
+18,Sarah,Lewis,Technician,Operations,+14527216301,10:20,09:28
+19,Daniel,Anderson,Technician,Operations,+11987946030,18:55,21:21
+20,Michael,Rodriguez,Technician,Customer Service,+17436860264,10:28,15:04
+21,Daniel,Clark,Pilot,HR,+12429032153,10:44,12:25
+22,Sarah,Clark,Technician,Customer Service,+17005078482,10:06,03:56
+23,Laura,Clark,Pilot,Customer Service,+11715753016,01:38,03:28
+24,David,Anderson,Technician,Customer Service,+18177114313,10:30,15:47
+25,Michael,Lewis,Cabin Crew,Customer Service,+15350704250,20:50,18:46
+26,Sarah,Rodriguez,Pilot,HR,+14490927319,23:13,00:26
+27,Sarah,Walker,Ground Staff,HR,+13477989797,09:42,00:32
+28,Sarah,Rodriguez,Cabin Crew,Operations,+16578570214,14:12,11:30
+29,Laura,Walker,Pilot,Operations,+13664746681,18:30,00:44
+30,David,Walker,Ground Staff,Customer Service,+12188753915,07:56,22:57
+31,David,Rodriguez,Pilot,Customer Service,+13315852892,18:54,06:25
+32,Sophia,Lewis,Administrator,Operations,+19142068297,18:11,06:58
+33,David,Rodriguez,Administrator,Engineering,+16350484628,21:32,12:09
+34,Sarah,Lewis,Administrator,Operations,+14166997204,10:06,04:13
+35,Daniel,Clark,Pilot,Customer Service,+14759730821,04:26,15:48
+36,David,Anderson,Administrator,Operations,+13130846585,18:09,15:38
+37,Michael,Clark,Cabin Crew,Engineering,+19423035728,06:03,16:22
+38,Sarah,Rodriguez,Administrator,Operations,+13694721439,14:12,09:29
+39,Laura,Clark,Ground Staff,HR,+16403376025,09:32,02:35
+40,Daniel,Lewis,Technician,HR,+11749469872,03:50,20:35
+41,Laura,Lewis,Pilot,Engineering,+16607840011,12:26,19:49
+42,Sarah,Anderson,Administrator,Customer Service,+15740768097,20:34,18:50
+43,Michael,Rodriguez,Technician,HR,+19938311849,01:54,13:14
+44,Michael,Rodriguez,Technician,HR,+16628193071,08:46,09:24
+45,Daniel,Walker,Technician,Customer Service,+18942199008,14:01,02:24
+46,Sophia,Lewis,Pilot,Operations,+11661383201,06:32,17:47
+47,Sarah,Clark,Ground Staff,Operations,+14887155143,18:35,06:28
+48,Sophia,Rodriguez,Ground Staff,Operations,+19540217344,11:38,11:52
+49,Daniel,Walker,Cabin Crew,Engineering,+12208790976,13:13,14:03
+50,Sophia,Walker,Ground Staff,Customer Service,+14384927211,07:29,03:43
+51,David,Walker,Pilot,Operations,+16333383779,17:16,14:37
+52,Sophia,Walker,Technician,Customer Service,+15979572141,19:32,15:03
+53,David,Rodriguez,Technician,Operations,+19931825240,02:12,16:12
+54,Michael,Rodriguez,Administrator,HR,+19238172462,10:01,01:24
+55,Sophia,Lewis,Administrator,Engineering,+15605749095,04:34,14:34
+56,Laura,Walker,Pilot,Customer Service,+11890228219,12:23,17:47
+57,Sarah,Rodriguez,Administrator,HR,+16444753477,20:49,19:48
+58,Michael,Clark,Technician,Operations,+15518551796,04:38,03:29
+59,Daniel,Anderson,Pilot,Customer Service,+17417040305,00:16,14:34
+60,Laura,Clark,Administrator,Customer Service,+14628769429,08:35,11:16
+61,Sarah,Anderson,Pilot,HR,+18309095437,23:50,10:17
+62,Sophia,Anderson,Ground Staff,HR,+16462880163,08:15,01:23
+63,Michael,Rodriguez,Administrator,Customer Service,+19718510617,13:37,17:41
+64,Michael,Clark,Cabin Crew,Customer Service,+13468007761,09:01,00:01
+65,Sarah,Anderson,Cabin Crew,HR,+15710021888,03:25,12:41
+66,Michael,Walker,Cabin Crew,Operations,+12904905762,18:23,21:13
+67,Laura,Lewis,Technician,Operations,+11274073729,04:41,14:50
+68,Daniel,Walker,Pilot,HR,+18797887117,18:43,00:52
+69,Michael,Anderson,Pilot,Engineering,+18728277350,09:40,12:45
+70,Sophia,Rodriguez,Ground Staff,HR,+12781055391,21:29,21:08
+71,Sarah,Rodriguez,Technician,Engineering,+17916273396,18:05,21:11
+72,Sophia,Rodriguez,Administrator,Customer Service,+15632655567,13:56,10:40
+73,Laura,Clark,Administrator,Engineering,+19464778224,19:26,01:08
+74,Daniel,Anderson,Pilot,Engineering,+17761224660,06:06,01:07
+75,David,Anderson,Pilot,Operations,+12519454892,19:12,23:14
+76,Sophia,Walker,Administrator,Engineering,+17325315630,06:17,06:37
+77,Laura,Clark,Pilot,Engineering,+18724597897,04:05,17:00
+78,Sarah,Clark,Technician,Operations,+12116433106,07:17,15:43
+79,David,Walker,Technician,Customer Service,+19829751925,23:46,20:33
+80,David,Anderson,Administrator,HR,+11891633779,12:25,19:36
+81,Daniel,Clark,Administrator,HR,+16738604999,14:35,20:28
+82,Sophia,Walker,Administrator,Engineering,+15346918030,10:52,15:12
+83,Sophia,Walker,Technician,HR,+17253859954,07:27,21:55
+84,Daniel,Rodriguez,Technician,Operations,+13657431633,13:48,13:44
+85,Laura,Anderson,Ground Staff,Engineering,+14427738484,22:26,16:41
+86,David,Clark,Administrator,Customer Service,+11170625583,10:25,18:54
+87,Laura,Clark,Pilot,Customer Service,+12760702432,15:53,17:23
+88,Laura,Lewis,Administrator,Operations,+15788768701,07:51,10:49
+89,Michael,Rodriguez,Technician,Customer Service,+14735439509,23:25,03:53
+90,David,Anderson,Cabin Crew,Customer Service,+15874591940,15:02,09:27
+91,Daniel,Walker,Technician,Operations,+11977577762,07:27,19:23
+92,David,Anderson,Technician,Operations,+17346248321,12:18,16:32
+93,Sophia,Walker,Technician,Engineering,+18468629275,14:45,23:53
+94,Laura,Rodriguez,Administrator,Operations,+14987621249,04:24,03:58
+95,Sarah,Rodriguez,Pilot,Engineering,+19981115220,21:35,01:46
+96,Sarah,Clark,Administrator,Customer Service,+16094843067,09:15,08:47
+97,Sarah,Clark,Pilot,HR,+15808627273,00:11,10:35
+98,David,Walker,Administrator,Customer Service,+15918187928,10:32,08:47
+99,Laura,Walker,Cabin Crew,Operations,+16601270312,02:34,21:43
+100,Sophia,Rodriguez,Pilot,HR,+19239568785,06:17,13:03
+101,David,Anderson,Administrator,Operations,+18490499128,04:36,10:07
+102,David,Rodriguez,Cabin Crew,Customer Service,+13802567605,00:22,09:57
+103,Sophia,Anderson,Technician,Customer Service,+19237531124,14:38,11:24
+104,Daniel,Clark,Ground Staff,Customer Service,+18691193903,21:31,05:54
+105,Sophia,Clark,Cabin Crew,HR,+15860362317,07:27,05:06
+106,Daniel,Rodriguez,Pilot,HR,+15130446800,11:50,15:48
+107,Daniel,Anderson,Technician,Customer Service,+11468770796,07:18,05:47
+108,Sophia,Walker,Cabin Crew,Operations,+14688617482,10:34,18:24
+109,Sophia,Clark,Administrator,Customer Service,+14054526224,17:47,22:42
+110,David,Anderson,Cabin Crew,Engineering,+16268273292,07:07,03:11
+111,Michael,Anderson,Administrator,HR,+17459382674,19:21,14:58
+112,Michael,Anderson,Technician,Customer Service,+19502713734,02:36,16:43
+113,Daniel,Anderson,Ground Staff,Customer Service,+14512747044,08:26,03:59
+114,Sophia,Clark,Technician,Operations,+12403038621,19:15,03:22
+115,Daniel,Clark,Ground Staff,HR,+12083386737,08:01,02:10
+116,Laura,Rodriguez,Ground Staff,Customer Service,+12522182226,07:22,18:50
+117,Laura,Anderson,Technician,HR,+16634846788,15:13,14:18
+118,Michael,Walker,Administrator,Engineering,+15496720917,04:02,18:49
+119,Michael,Lewis,Technician,Engineering,+19621989931,09:37,02:24
+120,David,Walker,Administrator,HR,+13838672518,13:15,04:09
+121,David,Clark,Technician,Customer Service,+12576709105,10:03,19:15
+122,Sophia,Lewis,Technician,Engineering,+12029319330,19:14,01:01
+123,Sarah,Lewis,Cabin Crew,HR,+12538807642,03:21,06:10
+124,Sophia,Lewis,Pilot,Engineering,+18621496015,22:27,03:42
+125,Daniel,Rodriguez,Ground Staff,Operations,+11835941228,22:24,09:00
+126,Sophia,Clark,Pilot,Engineering,+14365849550,21:20,23:53
+127,Michael,Clark,Pilot,Operations,+18229027655,22:49,21:29
+128,Michael,Lewis,Administrator,Customer Service,+15313952048,02:04,10:05
+129,Sophia,Walker,Technician,Customer Service,+14054640488,22:10,05:11
+130,Sarah,Walker,Pilot,Engineering,+16268963873,01:40,10:04
+131,David,Anderson,Ground Staff,HR,+18433698027,18:12,20:35
+132,Sarah,Lewis,Pilot,Engineering,+12647160779,23:18,03:15
+133,Sarah,Lewis,Pilot,Customer Service,+19747825606,17:50,09:24
+134,Laura,Rodriguez,Cabin Crew,Engineering,+17020795325,06:16,01:38
+135,Michael,Walker,Ground Staff,Engineering,+18502832798,23:56,11:33
+136,Daniel,Lewis,Pilot,HR,+18280893991,01:38,16:45
+137,Daniel,Rodriguez,Cabin Crew,HR,+18722798670,14:32,02:58
+138,Laura,Clark,Ground Staff,Customer Service,+17703600783,00:13,02:32
+139,Michael,Clark,Cabin Crew,Customer Service,+18261038484,16:47,15:24
+140,Laura,Walker,Administrator,Operations,+12574697424,14:56,07:47
+141,Daniel,Walker,Cabin Crew,Customer Service,+14032350583,14:16,01:13
+142,David,Anderson,Cabin Crew,HR,+11231958347,22:55,04:56
+143,Laura,Lewis,Ground Staff,Operations,+19896824917,02:21,05:33
+144,Michael,Anderson,Ground Staff,HR,+18010854176,08:11,18:34
+145,Sarah,Clark,Administrator,HR,+14414639829,19:24,01:13
+146,Sophia,Walker,Administrator,Operations,+11685087155,08:08,16:37
+147,Laura,Anderson,Technician,Operations,+17079956655,11:18,00:40
+148,Sophia,Anderson,Technician,HR,+12195916994,03:54,23:36
+149,David,Clark,Administrator,Operations,+11668901692,23:13,09:59
+150,Daniel,Lewis,Cabin Crew,Operations,+18681921483,07:54,20:54
+151,Sophia,Clark,Pilot,Operations,+14978316904,23:33,17:29
+152,David,Rodriguez,Cabin Crew,Operations,+19519755909,04:25,15:12
+153,David,Lewis,Pilot,HR,+14109169040,10:36,01:50
+154,Laura,Clark,Ground Staff,Customer Service,+15172234975,08:31,15:06
+155,Daniel,Anderson,Cabin Crew,HR,+12298156240,20:20,22:23
+156,Sarah,Clark,Pilot,HR,+18404261226,19:54,13:04
+157,David,Walker,Ground Staff,Customer Service,+17371424185,20:15,08:53
+158,Sophia,Lewis,Administrator,Engineering,+19818978370,04:00,23:36
+159,Daniel,Anderson,Ground Staff,Operations,+14652251986,19:22,15:22
+160,Laura,Clark,Pilot,HR,+12720510456,05:42,10:50
+161,David,Anderson,Cabin Crew,Operations,+19168388891,14:46,16:19
+162,Sophia,Walker,Administrator,Customer Service,+18284362759,18:42,20:41
+163,David,Clark,Technician,Operations,+17002629164,08:46,14:12
+164,Sophia,Rodriguez,Administrator,HR,+12731273707,16:05,12:55
+165,Laura,Anderson,Technician,HR,+16018783279,01:45,00:16
+166,Sarah,Anderson,Pilot,Customer Service,+16511497087,13:12,11:00
+167,Michael,Clark,Cabin Crew,Engineering,+12515005147,23:19,04:04
+168,Daniel,Lewis,Ground Staff,Engineering,+12616027423,09:00,03:04
+169,David,Walker,Ground Staff,HR,+19980115374,01:45,10:06
+170,Daniel,Rodriguez,Cabin Crew,HR,+17763665882,13:54,02:12
+171,Sophia,Clark,Technician,Customer Service,+13278015217,19:09,00:52
+172,David,Anderson,Pilot,HR,+11683377489,20:10,02:09
+173,David,Clark,Ground Staff,HR,+12473530556,21:34,03:32
+174,Laura,Clark,Pilot,HR,+12293168484,20:31,10:32
+175,Sarah,Lewis,Administrator,Customer Service,+18126058042,23:12,17:40
+176,Sarah,Lewis,Ground Staff,HR,+13133069422,22:26,04:32
+177,Daniel,Rodriguez,Cabin Crew,Engineering,+13435901531,19:19,06:10
+178,Laura,Rodriguez,Administrator,HR,+13815836704,11:44,23:58
+179,David,Rodriguez,Pilot,HR,+12608162970,08:56,13:13
+180,Daniel,Walker,Ground Staff,HR,+19330312136,02:50,23:39
+181,Laura,Clark,Ground Staff,Operations,+14561179983,16:05,20:55
+182,David,Rodriguez,Pilot,Customer Service,+13618796764,21:31,12:28
+183,Michael,Anderson,Technician,HR,+15675870107,05:58,16:05
+184,Laura,Anderson,Administrator,HR,+13573318572,19:49,23:16
+185,David,Walker,Administrator,Operations,+13032664979,23:50,07:47
+186,Michael,Anderson,Technician,Operations,+14162606718,14:35,13:29
+187,Michael,Walker,Technician,Operations,+18986385001,18:05,03:37
+188,David,Walker,Ground Staff,Operations,+12977277431,17:22,08:31
+189,Sarah,Walker,Pilot,Engineering,+12857781865,11:08,14:30
+190,Sophia,Walker,Ground Staff,Operations,+12572199177,05:02,11:42
+191,Daniel,Walker,Pilot,Operations,+14067774090,09:19,22:56
+192,Michael,Anderson,Ground Staff,HR,+14361319613,21:29,06:25
+193,David,Clark,Pilot,Customer Service,+18901201020,06:28,16:47
+194,Sophia,Walker,Pilot,Engineering,+12158457309,09:44,10:00
+195,Sarah,Clark,Administrator,Operations,+18371381852,14:01,00:41
+196,David,Anderson,Cabin Crew,HR,+19813662822,22:39,13:49
+197,David,Lewis,Cabin Crew,Customer Service,+13238208640,02:30,10:31
+198,Michael,Rodriguez,Technician,HR,+11782652666,13:03,18:01
+199,Michael,Walker,Ground Staff,Engineering,+18221359133,05:03,06:26
+200,David,Anderson,Pilot,Engineering,+11705824417,02:52,07:31
+201,Sarah,Anderson,Cabin Crew,HR,+11770866184,11:50,22:40
+202,Daniel,Lewis,Ground Staff,Customer Service,+15987248524,05:20,20:21
+203,Daniel,Anderson,Pilot,HR,+13675501969,23:07,07:07
+204,Daniel,Rodriguez,Technician,Operations,+14807805632,08:03,13:39
+205,Michael,Anderson,Administrator,Engineering,+17431493194,22:21,15:40
+206,Sophia,Clark,Pilot,HR,+14411207078,18:18,19:55
+207,Sophia,Walker,Pilot,Operations,+18096492231,03:34,11:58
+208,Sarah,Clark,Pilot,HR,+12117807754,20:44,01:09
+209,David,Clark,Pilot,Engineering,+14649643942,02:18,01:51
+210,Michael,Walker,Cabin Crew,HR,+17707277819,20:11,18:09
+211,Sarah,Anderson,Ground Staff,HR,+15807147623,14:45,03:21
+212,Sophia,Walker,Ground Staff,Operations,+19010217249,13:29,20:38
+213,Sarah,Rodriguez,Ground Staff,Engineering,+13325541384,14:36,08:24
+214,Daniel,Rodriguez,Ground Staff,Engineering,+15032217689,07:27,06:58
+215,David,Lewis,Technician,Engineering,+19620587850,06:40,21:28
+216,Sophia,Lewis,Ground Staff,Customer Service,+16783961002,15:15,06:28
+217,Laura,Rodriguez,Cabin Crew,Customer Service,+15661376024,20:50,22:47
+218,Sarah,Rodriguez,Cabin Crew,Operations,+19826332505,06:49,04:48
+219,Laura,Lewis,Ground Staff,Operations,+16480101419,21:01,06:29
+220,David,Rodriguez,Cabin Crew,HR,+12901547484,04:12,15:53
+221,Michael,Lewis,Technician,Operations,+14192693485,08:37,08:59
+222,Daniel,Anderson,Pilot,Customer Service,+14853635354,11:52,10:42
+223,David,Rodriguez,Technician,Customer Service,+18934675314,10:44,12:16
+224,Sarah,Clark,Pilot,Operations,+17928765822,12:34,01:42
+225,Laura,Anderson,Cabin Crew,HR,+14192940915,21:59,08:37
+226,Laura,Rodriguez,Pilot,Customer Service,+18032012845,14:02,15:28
+227,Sophia,Anderson,Ground Staff,Operations,+17394770001,17:58,15:43
+228,Sophia,Walker,Ground Staff,Customer Service,+12009315989,19:41,02:36
+229,Sarah,Walker,Cabin Crew,Operations,+11994430327,23:24,06:49
+230,Sarah,Lewis,Pilot,HR,+18744812326,21:54,05:48
+231,David,Walker,Ground Staff,HR,+15925895972,09:14,01:04
+232,Daniel,Walker,Administrator,Operations,+15263971553,20:23,20:49
+233,Laura,Rodriguez,Cabin Crew,HR,+19521734762,10:12,01:48
+234,Michael,Anderson,Cabin Crew,HR,+19495692269,11:36,14:25
+235,Laura,Clark,Administrator,Operations,+19446098863,23:16,20:01
+236,Sophia,Clark,Ground Staff,Customer Service,+18578781295,01:54,14:11
+237,Michael,Rodriguez,Pilot,Engineering,+15451242182,10:13,20:55
+238,David,Clark,Administrator,Operations,+13044628457,11:19,14:05
+239,David,Rodriguez,Pilot,Operations,+15825488189,21:09,04:36
+240,Michael,Clark,Pilot,Engineering,+18529009820,15:57,12:44
+241,David,Lewis,Technician,Customer Service,+12896381988,09:44,03:31
+242,Sophia,Walker,Technician,Engineering,+17195956046,04:32,14:54
+243,David,Lewis,Cabin Crew,Engineering,+11015471910,10:22,15:34
+244,Daniel,Lewis,Pilot,HR,+16081322479,09:51,21:26
+245,Michael,Walker,Pilot,Engineering,+18531979329,22:38,02:32
+246,Laura,Rodriguez,Technician,Engineering,+17134435541,08:27,05:57
+247,Sophia,Anderson,Cabin Crew,Customer Service,+15811561892,14:50,14:04
+248,Sarah,Clark,Administrator,HR,+15417220175,09:17,00:41
+249,Sophia,Walker,Pilot,Operations,+16397938218,03:18,03:38
+250,Sophia,Anderson,Pilot,Engineering,+14082707674,15:23,10:41
